@@ -1,0 +1,6 @@
+C:\Users\Code\Desktop\Class,Inheritance\Class\bin\Debug\Class.exe
+C:\Users\Code\Desktop\Class,Inheritance\Class\bin\Debug\Class.pdb
+C:\Users\Code\Desktop\Class,Inheritance\Class\obj\Debug\Class.csprojAssemblyReference.cache
+C:\Users\Code\Desktop\Class,Inheritance\Class\obj\Debug\Class.csproj.CoreCompileInputs.cache
+C:\Users\Code\Desktop\Class,Inheritance\Class\obj\Debug\Class.exe
+C:\Users\Code\Desktop\Class,Inheritance\Class\obj\Debug\Class.pdb
